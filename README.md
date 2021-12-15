@@ -30,7 +30,7 @@ This section list out the projects in this repository.
     </tr>
     <tr>
         <td rowspan=2>CV</td>
-        <td><a href="https://github.com/kiritowu/Deep_Learning/tree/main/CV/EfficientNetV2_with_Image_Classification_Benchmarks">EfficientNetV2 with Image Classification Benchmarks</a></td>
+        <td><a href="https://github.com/kiritowu/Deep-Learning/tree/main/CV/EfficientNetV2_with_Image_Classification_Benchmarks">EfficientNetV2 with Image Classification Benchmarks</a></td>
         <td>Utilizing SOTA model and training procedure on classic Image classification dataset like Fashion-MNIST and CIFAR10 using Timm running on Pytorch.</td>
         <td>
             <em><b>Image Classification</b></em>,<br>
@@ -42,7 +42,7 @@ This section list out the projects in this repository.
         </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/kiritowu/Deep_Learning/tree/main/CV/FasterRCNN_VehiclesDetection">Faster-RCNN Vehicles Detection</a></td>
+        <td><a href="https://github.com/kiritowu/Deep-Learning/tree/main/CV/FasterRCNN_VehiclesDetection">Faster-RCNN Vehicles Detection</a></td>
         <td>Detecting cars using Faster-RCNN with MobilenetV3 as backbone.</td>
         <td>
             <em><b>Object Detection</b></em>,<br>
