@@ -53,15 +53,27 @@ This section list out the projects in this repository.
             <em><b>Pytorch</b></em>,<br>
         </td>
     </tr>
+    <tr>
+        <td rowspan=1>RL</td>
+        <td><a href="https://github.com/kiritowu/Hands-On-Reinforcement-Learning-with-Python">Hands-On Reinforcement Learning with Python</a></td>
+        <td>Coding exercise and self-made notes from the Hands-On Reinforcement Learning with Python book published by Packt.</td>
+        <td>
+            <em><b>Reinforcement Learning</b></em>,<br>
+            <em><b>Markov Decision Process</b></em>,<br>
+            <em><b>Monte Carlo Control</b></em>,<br>
+            <em><b>Otw</b></em>,<br>
+        </td>
+    </tr>
 </table>
 
 
 ## Prerequisites
 
 The list of standard Python3 packages that I have used for my Machine Learning projects is shown in `requirements.txt`.
-To install all of the packages, simply call the following command:
+To install all of the packages specific to each subfields, simply call the following command:
 * pip
   ```sh
+  cd CV
   pip install -r requirements.txt
   ```
 
