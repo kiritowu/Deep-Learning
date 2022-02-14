@@ -1,7 +1,8 @@
 # Great Lunar Lander with DQN
 
 Authors: Wong Zhao Wu, Bryan; M. Faqih Akmal [@aqilakmal](https://github.com/aqilakmal); Oh Tien Cheng [@Tien-Cheng](https://github.com/Tien-Cheng)
-Presentation Recording: https://youtu.be/47EwA529fqU
+
+Presentation Recording : https://youtu.be/47EwA529fqU
 
 ## Project Goal
 The goal of the project is to create a Reinforcement Learning model that can land an agent in the Lunar Lander gym environment.

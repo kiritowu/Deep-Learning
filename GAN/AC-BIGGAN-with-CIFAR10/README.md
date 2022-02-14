@@ -1,7 +1,8 @@
 # Auxiliary Classifier with BigGAN Model Architechture (AC-BigGAN)
 
-Author : Wong Zhao Wu
+Author : Wong Zhao Wu, Bryan
 
+Presentation Recording : https://youtu.be/gB1XcW5_n4o
 
 # Abstract
 In attempt to generate realistic and diverse image across multiple categories of CIFAR10, I have make use of [ACGAN](https://arxiv.org/pdf/1610.09585.pdf) as the primary framework with improvements from modern GAN network architecture like [BIGGAN](https://arxiv.org/pdf/1809.11096.pdf) backbone with [Conditional Batch-Norm](https://paperswithcode.com/method/conditional-batch-normalization) and improvements in training techniques such as implementation of [hinge loss](https://paperswithcode.com/method/gan-hinge-loss), [Orthogonal Initialization](https://arxiv.org/pdf/1312.6120.pdf) and label-smoothing for auxillary loss.
