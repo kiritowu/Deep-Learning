@@ -54,7 +54,7 @@ This section list out the projects in this repository.
         </td>
     </tr>
     <tr>
-        <td rowspan=2>GAN</td>
+        <td rowspan=3>GAN</td>
         <td><a href="https://github.com/kiritowu/GDL_code">GDL_code</a></td>
         <td>Forked repository while reading O'Reilly's Generative Deep Learning book.</td>
         <td>
@@ -76,6 +76,20 @@ This section list out the projects in this repository.
             <em><b>StackGAN</b></em>,<br>
             <em><b>CycleGAN</b></em>,<br>
             <em><b>Keras</b></em>,<br>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/kiritowu/Deep-Learning/tree/main/GAN/AC-BIGGAN-with-CIFAR10">AC-BIGGAN with CIFAR10</a></td>
+        <td>Generating small coloured images with AC-BIGGAN.</td>
+        <td>
+            <em><b>ACGAN</b></em>,<br>
+            <em><b>BIGGAN</b></em>,<br>
+            <em><b>Conditional Batch Normalization</b></em>,<br>
+            <em><b>Hinge Loss</b></em>,<br>
+            <em><b>Label Smoothing</b></em>,<br>
+            <em><b>IS</b></em>,<br>
+            <em><b>FID</b></em>,<br>
+            <em><b>Pytorch</b></em>,<br>
         </td>
     </tr>
     <tr>
