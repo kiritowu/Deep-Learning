@@ -93,7 +93,18 @@ This section list out the projects in this repository.
         </td>
     </tr>
     <tr>
-        <td rowspan=1>RL</td>
+        <td rowspan=2>RL</td>
+        <td><a href="https://github.com/kiritowu/Deep-Learning/tree/main/RL/Great-Lunar-Lander-with-DQN">Great Lunar Lander with DQN</a></td>
+        <td>Solving Lunar-Landerv2 with DQNs approach.</td>
+        <td>
+            <em><b>DQN</b></em>,<br>
+            <em><b>DDQN</b></em>,<br>
+            <em><b>SARSA</b></em>,<br>
+            <em><b>OpenAI Gym</b></em>,<br>
+            <em><b>Keras</b></em><br>
+        </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kiritowu/Hands-On-Reinforcement-Learning-with-Python">Hands-On Reinforcement Learning with Python</a></td>
         <td>Coding exercise and self-made notes from the Hands-On Reinforcement Learning with Python book published by Packt.</td>
         <td>
@@ -101,6 +112,14 @@ This section list out the projects in this repository.
             <em><b>Markov Decision Process</b></em>,<br>
             <em><b>Monte Carlo Control</b></em>,<br>
             <em><b>Otw</b></em>,<br>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/kiritowu/Deep-Learning/tree/main/RL/Snake-DQN">Snake-DQN</a></td>
+        <td>Solving Snake with DQN approach.</td>
+        <td>
+            <em><b>DQN</b></em>,<br>
+            <em><b>Keras</b></em><br>
         </td>
     </tr>
 </table>
