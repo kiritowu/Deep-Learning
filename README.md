@@ -93,7 +93,7 @@ This section list out the projects in this repository.
         </td>
     </tr>
     <tr>
-        <td rowspan=2>RL</td>
+        <td rowspan=3>RL</td>
         <td><a href="https://github.com/kiritowu/Deep-Learning/tree/main/RL/Great-Lunar-Lander-with-DQN">Great Lunar Lander with DQN</a></td>
         <td>Solving Lunar-Landerv2 with DQNs approach.</td>
         <td>
