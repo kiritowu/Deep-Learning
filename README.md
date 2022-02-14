@@ -54,6 +54,31 @@ This section list out the projects in this repository.
         </td>
     </tr>
     <tr>
+        <td rowspan=2>GAN</td>
+        <td><a href="https://github.com/kiritowu/GDL_code">GDL_code</a></td>
+        <td>Forked repository while reading O'Reilly's Generative Deep Learning book.</td>
+        <td>
+            <em><b>VAE</b></em>,<br>
+            <em><b>WGAN</b></em>,<br>
+            <em><b>WGANGP</b></em>,<br>
+            <em><b>CycleGAN</b></em>,<br>
+            <em><b>Keras</b></em>,<br>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/kiritowu/Generative-Adversarial-Networks-Projects">Generative-Adversarial-Networks-Projects</a></td>
+        <td>Forked repository while reading PacktPublishing's Generative Adversarial Networks Projects book.</td>
+        <td>
+            <em><b>3DGAN</b></em>,<br>
+            <em><b>cGAN</b></em>,<br>
+            <em><b>DCGAN</b></em>,<br>
+            <em><b>SRGAN</b></em>,<br>
+            <em><b>StackGAN</b></em>,<br>
+            <em><b>CycleGAN</b></em>,<br>
+            <em><b>Keras</b></em>,<br>
+        </td>
+    </tr>
+    <tr>
         <td rowspan=1>RL</td>
         <td><a href="https://github.com/kiritowu/Hands-On-Reinforcement-Learning-with-Python">Hands-On Reinforcement Learning with Python</a></td>
         <td>Coding exercise and self-made notes from the Hands-On Reinforcement Learning with Python book published by Packt.</td>
