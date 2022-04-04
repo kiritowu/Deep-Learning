@@ -1,0 +1,11 @@
+[submodule "GAN/GDL_code"] 
+    path = GAN/GDL_code 
+    url = git@github.com:kiritowu/GDL_code.git
+
+[submodule "GAN/Generative-Adversarial-Networks-Projects"]
+    path = GAN/Generative-Adversarial-Networks-Projects
+    url = git@github.com:kiritowu/Generative-Adversarial-Networks-Projects.git
+
+[submodule "RL/Hands-On-Reinforcement-Learning-with-Python"]
+    path = RL/Hands-On-Reinforcement-Learning-with-Python
+    url = git@github.com:kiritowu/Hands-On-Reinforcement-Learning-with-Python.git
