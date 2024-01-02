@@ -1,4 +1,4 @@
-# Auxiliary Classifier with BigGAN Model Architechture (AC-BigGAN)
+# Auxiliary Classifier with BigGAN Model Architecture (AC-BigGAN)
 
 Author : Wong Zhao Wu, Bryan
 
